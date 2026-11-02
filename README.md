@@ -67,7 +67,7 @@ Spoken       Spanish (native) · English (TOEFL 85 · B2) · French (B2)
 | **WhatsApp** | [+52 221 598 4522](https://wa.me/522215984522) |
 | **Book a call** | [calendly.com/irigoyencodes](https://calendly.com/irigoyencodes) |
 | **Freelance (Paris)** | [Malt](https://www.malt.com/profile/santiagopatricioirigoyenvazquez) |
-| **LinkedIn** | [/in/santiago-irigoyen](https://www.linkedin.com/in/santiago-irigoyen/) |
+| **LinkedIn** | [/in/santiagoirigoyenv](https://www.linkedin.com/in/santiagoirigoyenv/) |
 | **CV** | [Irigoyen_CV.pdf](https://github.com/IrigoyenCodes/IrigoyenCodes/blob/main/Irigoyen_CV.pdf) |
 
 Available for **full-stack / AI product work**, technical co-builds, and consulting sprints (remote or Paris on-site).
