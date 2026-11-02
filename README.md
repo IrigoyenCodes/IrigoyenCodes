@@ -7,7 +7,7 @@ Computer Systems Engineering @ [UDLAP](https://www.udlap.mx) (GPA 3.7 · May 202
   <a href="https://portfolio-santiago-theta.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-live-111111?style=flat-square" /></a>
   <a href="https://hyatlas.ai"><img alt="Atlas" src="https://img.shields.io/badge/Atlas-hyatlas.ai-2563eb?style=flat-square" /></a>
   <a href="https://trymarko.com"><img alt="Marko" src="https://img.shields.io/badge/Marko-trymarko.com-0f766e?style=flat-square" /></a>
-  <a href="https://www.linkedin.com/in/santiago-irigoyen/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/santiagoirigoyenv/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square" /></a>
   <a href="https://github.com/IrigoyenCodes/IrigoyenCodes/blob/main/Irigoyen_CV.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-PDF-b91c1c?style=flat-square" /></a>
 </p>
 
